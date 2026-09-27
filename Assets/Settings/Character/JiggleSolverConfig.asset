@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79498c42748505a49bf1ed0f9db0469e, type: 3}
+  m_Name: JiggleSolverConfig
+  m_EditorClassIdentifier: 
+  stabilityFactor: 0.305
+  maxFrameDeltaTime: 0.05
+  simulationRate: 90
+  teleportReferenceFrameRate: 60
+  fallbackBoneLength: 0.05
+  antiParallelAngleDegrees: 179

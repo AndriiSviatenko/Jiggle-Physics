@@ -1,0 +1,65 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+sysinfo.txt
+*.stackdump
+
+# IDE and tooling
+.vs/
+.vscode/
+.idea/
+.claude/
+.codex/
+.qodo/
+.agent/
+.agentic/
+.agents/
+.opencode/
+.opencode.json
+openapi.json
+opencode.json
+.mcp.json
+.mcp-ping.json
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Builds and packages
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# Local backups
+_cleanup_backup_*.zip
+*.zip
+(true)
+
+# Publish only the curated documentation requested for this repository
+.docs/*
+!.docs/AnimationGuide.md
+!.docs/Claude_Guide.md

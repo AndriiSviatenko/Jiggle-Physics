@@ -1,0 +1,21 @@
+{
+    "name": "JigglePhysics.Tests.PlayMode",
+    "rootNamespace": "JigglePhysics.Tests.PlayMode",
+    "references": [
+        "CharacterLogic"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

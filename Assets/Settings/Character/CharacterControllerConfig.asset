@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39278f904600db44e934b6dc64bfb358, type: 3}
+  m_Name: CharacterControllerConfig
+  m_EditorClassIdentifier: 
+  walkSpeed: 3
+  runSpeed: 8.5
+  groundAcceleration: 18
+  groundDeceleration: 22
+  airControl: 0.65
+  maxFallSpeed: 40
+  jumpVelocity: 6.5
+  coyoteTime: 0.15
+  jumpBufferTime: 0.15
+  gravityScale: 1.15
+  groundCheckOffset: 0.05
+  groundCheckRadius: 0.15
+  groundLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  turnSpeed: 900
+  animationDrivenLocomotion: 0
+  parkourLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  wallRunSpeed: 10.5
+  wallRunGravity: 1
+  wallCheckDistance: 0.85
+  wallRunDuration: 1.8
+  wallJumpUpSpeed: 6.2
+  wallJumpAwaySpeed: 3.8
+  vaultDistance: 1.6
+  vaultDuration: 0.38
+  vaultArcHeight: 0.9
+  blinkDistance: 10
+  blinkRadius: 0.28
+  blinkCooldown: 0.6

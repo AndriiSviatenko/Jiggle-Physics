@@ -1,0 +1,24 @@
+{
+    "name": "CharacterLogic.Editor",
+    "rootNamespace": "CharacterLogic.EditorTools",
+    "references": [
+        "CharacterLogic",
+        "ComponentLogic",
+        "JigglePhysics.Runtime",
+        "Unity.Cinemachine",
+        "Unity.InputSystem",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
